@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LibriaApplication<libria>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.prw.config.LibriaApplication",
+            "projectName": "libria",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
